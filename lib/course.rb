@@ -18,3 +18,5 @@ class Course
   end
  
 end
+
+Course.all 
